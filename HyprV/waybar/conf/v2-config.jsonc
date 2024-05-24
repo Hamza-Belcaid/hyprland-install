@@ -14,21 +14,22 @@
         "disk",
         "hyprland/window"
     ],
-    "modules-center": [
-        "custom/lock_screen",
-        "custom/updates",
-        "clock",
-        "custom/power_btn"
-    ],
+    //"modules-center": [
+        //"custom/lock_screen",
+        //"custom/updates",
+        //"clock"
+        //"custom/power_btn"
+    //],
     "modules-right": [
-        "temperature",
-        "custom/power_profile",
-        "battery",
+       //"temperature",
+        //"custom/power_profile",
         "backlight",
         "pulseaudio",
         "pulseaudio#microphone",
+	"battery",
         "tray",
         "custom/weather",
+	"clock",
         "custom/myhyprv",
         "custom/light_dark"
     ],
