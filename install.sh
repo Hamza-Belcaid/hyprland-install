@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the software that would be inbstalled 
-yay -S qt5-wayland qt5ctqt6-wayland qt6ct qt5-svg qt5-quickcontrols2 qt5-graphicaleffects gtk3 polkit-gnome jq cliphist python-requests kitty mako waybar swww swaylock-effects wofi  wlogout xdg-desktop-portal-hyprland swappy grim slurp thunar btop pamixer pavucontrol brightnessctl blueman thunar-archive-plugin file-roller starship papirus-icon-theme ttf-jetbrains-mono-nerd noto-fonts-emoji lxappearance xfce4-settings nwg-look-bin sddm
+yay -S qt5-wayland qt5ctqt6-wayland qt6ct qt5-svg qt5-quickcontrols2 qt5-graphicaleffects gtk3 polkit-gnome jq cliphist python-requests kitty mako waybar swaylock-effects wofi  wlogout xdg-desktop-portal-hyprland swappy grim slurp thunar btop pamixer pavucontrol brightnessctl blueman thunar-archive-plugin file-roller starship papirus-icon-theme ttf-jetbrains-mono-nerd noto-fonts-emoji lxappearance xfce4-settings nwg-look-bin sddm
 
 ### Copy Config Files ###
 cp -R HyprV ~/.config/
